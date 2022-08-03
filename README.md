@@ -12,9 +12,9 @@ The Northern Hemisphere displays a negative slope with a negative correlation be
 The graphs show that there are no clear relationship beetween Humidity and Latitude in the northern and Southern Hemisphere. We can however observe a weak positive correlation between latitude and humidity
 There are no clear relationship between Latitude and Wind Speed in the graphs. We can observe a weak positive correlation between latitude and Wind Speed for northern hemisphere and weak negative correlation between latitude and Wind Speed for Southern hemisphere.
 
-!image(https://github.com/Christ1129/python-api-challenge/blob/main/Images/City%20Latitude%20vs%20Max%20Temperature.png)
+!images(https://github.com/Christ1129/python-api-challenge/blob/main/Images/City%20Latitude%20vs%20Max%20Temperature.png)
 
-!image(https://github.com/Christ1129/python-api-challenge/blob/main/Images/hotel_map.png)
+!images(https://github.com/Christ1129/python-api-challenge/blob/main/Images/hotel_map.png)
 
 
 <hr>
